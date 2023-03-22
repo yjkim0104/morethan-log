@@ -2,18 +2,18 @@ const CONFIG = {
   // profile setting (required)
   profile: {
     name: "james",
-    image: "https://notion-avatar.vercel.app/api/img/eyJmYWNlIjoxMCwibm9zZSI6NiwibW91dGgiOjEsImV5ZXMiOjgsImV5ZWJyb3dzIjoxLCJnbGFzc2VzIjo4LCJoYWlyIjoxMCwiYWNjZXNzb3JpZXMiOjAsImRldGFpbHMiOjAsImJlYXJkIjowLCJmbGlwIjowLCJjb2xvciI6InJnYmEoMjU1LCAwLCAwLCAwKSIsInNoYXBlIjoibm9uZSJ9", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
-    role: "frontend developer",
-    bio: "I develop everything using node.",
+    image: "https://notion-avatar.vercel.app/api/img/eyJmYWNlIjoxNCwibm9zZSI6OCwibW91dGgiOjIsImV5ZXMiOjEzLCJleWVicm93cyI6OCwiZ2xhc3NlcyI6MTMsImhhaXIiOjEwLCJhY2Nlc3NvcmllcyI6MCwiZGV0YWlscyI6MCwiYmVhcmQiOjAsImZsaXAiOjAsImNvbG9yIjoicmdiYSgyNTUsIDAsIDAsIDApIiwic2hhcGUiOiJub25lIn0=", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
+    role: "Cloud/Application Architect",
+    bio: "I am someone who loves all aspects of IT",
     email: "amofaith@gmail.com",
     linkedin: "amfaith",
-    github: "yjkim0104",
+    github: "amofaith",
     instagram: "",
   },
   projects: [
     {
       name: `Tach Talk Talk`,
-      href: "https://github.com/",
+      href: "https://github.com/amofaith",
     },
   ],
   // blog setting (required)
@@ -24,12 +24,12 @@ const CONFIG = {
   },
 
   // CONFIG configration (required)
-  link: "https://morethan-log.vercel.app",
+  link: "https://amofaith.vercel.app",
   since: 2023, // If leave this empty, current year will be used.
   lang: "en-US", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
   ogImageGenerateURL: "https://og-image-korean.vercel.app", // The link to generate OG image, don't end with a slash
   seo: {
-    keywords: ["Blog", "Website", "Notion"],
+    keywords: ["Dev", "개발", "Architect", "Architure", "Cloud", "AWS", "MSA", "마이크로서비스", "클라우드", "Java", "자바", "Blog", "Website", "Notion"],
   },
 
   // notion configuration (required)
